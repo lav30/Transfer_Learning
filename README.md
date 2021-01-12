@@ -8,3 +8,13 @@ This project focuses on the proof of concept of transfer learning between severa
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/lav30/Transfer-Learning-for-Gas-Sensor-Data)
 ![GitHub All Releases](https://img.shields.io/github/downloads/lav30/Transfer-Learning-for-Gas-Sensor-Data/total)
+
+# Table of Contents
+
+- [Project Title](#project-title)
+- [Project Demo](#project-demo)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Development](#development)
+- [Contribute](#contribute)
+- [License](#license)
