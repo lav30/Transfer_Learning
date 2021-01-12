@@ -12,9 +12,12 @@ This project focuses on the proof of concept of transfer learning between severa
 # Table of Contents
 
 - [Project Title](#project-title)
-- [Project Demo](#project-demo)
+- [Project Description](#project-description)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Development](#development)
 - [Contribute](#contribute)
 - [License](#license)
+
+# Installation
+[(Back to top)](#table-of-contents)
