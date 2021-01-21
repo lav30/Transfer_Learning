@@ -2,6 +2,16 @@
 
 ![Alt text](TL.png?raw=true "Title")
 
+## Table of Contents
+
+- [Project Title](#project-title)
+- [Project Description](#project-description)
+- [Project Poster](#projectposter)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Dataset Information](#datasetinformation)
+- [License](#license)
+
 ## Project Description 
 
 This project focuses on the proof of concept of transfer learning between several time-series gas sensor datasets. The experimental results indicate significant improvements in model test accuracy and other performance metrics upon applying transfer learning as opposed to traditional deep learning algorithms.
@@ -9,14 +19,9 @@ This project focuses on the proof of concept of transfer learning between severa
 ![GitHub last commit](https://img.shields.io/github/last-commit/lav30/Transfer-Learning-for-Gas-Sensor-Data)
 ![GitHub All Releases](https://img.shields.io/github/downloads/lav30/Transfer-Learning-for-Gas-Sensor-Data/total)
 
-## Table of Contents
+## Project Poster
 
-- [Project Title](#project-title)
-- [Project Description](#project-description)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Dataset Information](#datasetinformation)
-- [License](#license)
+[Here](<a href="lav30.github.io/Files/poster.pdf" target="_blank">PDF.</a> is the project poster presented at the Fall 2020 Symposium.
 
 ## Installation
 [(Back to top)](#table-of-contents)
