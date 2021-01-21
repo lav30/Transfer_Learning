@@ -30,6 +30,7 @@ This project focuses on the proof of concept of transfer learning between severa
 2. Install [Tensorflow](https://www.tensorflow.org/install/pip)
 
 ## Dataset Information 
+[(Back to top)](#table-of-contents)
 
 Three chemical gas sensor datasets have been used in this project to build models utilised for transfer learning. A large dataset with millions of observations serves as the source dataset and two, much smaller datasets serve as the target datasets. The aim is to use pre-trained networks as initializations for datasets with fewer observations.
 
@@ -38,5 +39,6 @@ Three chemical gas sensor datasets have been used in this project to build model
 3. [Target Dataset 2](https://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures)
 
 ## License
+[(Back to top)](#table-of-contents)
 
 GNU General Public License, version 3 (GPLv3)
