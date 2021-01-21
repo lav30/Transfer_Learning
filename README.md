@@ -21,7 +21,7 @@ This project focuses on the proof of concept of transfer learning between severa
 
 ## Project Poster
 
-(<a href="lav30.github.io/Files/Lavanya_Ramesh_Naik.pdf" target="_blank"> Project_Poster </a> presented at the Fall 2020 Symposium.
+![Alt text](Lavanya_Ramesh_Naik.png?raw=true "Poster")
 
 ## Installation
 [(Back to top)](#table-of-contents)
