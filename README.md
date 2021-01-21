@@ -21,7 +21,7 @@ This project focuses on the proof of concept of transfer learning between severa
 
 ## Project Poster
 
-![Alt text](Lavanya_Ramesh_Naik.png?raw=true "Poster")
+![Alt text](Files/Lavanya_Ramesh_Naik.png?raw=true "Poster")
 
 ## Installation
 [(Back to top)](#table-of-contents)
