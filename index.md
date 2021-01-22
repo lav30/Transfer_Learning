@@ -7,4 +7,4 @@
 
 ## Transfer Learning Workflow
 
-![](Files/TL.png)
+![](TL.png)
