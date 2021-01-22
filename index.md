@@ -5,3 +5,5 @@
 - Optimized several deep learning models to improve chemical gas identification.
 - Achieved improved performance metrics for binary classification using pre-trained networks.
 
+## Transfer Learning Workflow
+
