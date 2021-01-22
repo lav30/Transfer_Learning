@@ -1,4 +1,4 @@
-# [Chemical Gas Classification using Transfer Learning](https://github.com/lav30/Transfer-Learning-for-Gas-Sensor-Data)
+## Project Overview
 
 - Established benchmarks for transfer learning using chemical gas sensor data.
 - Utilised pre-trained models for unbalanced, time-series data.
