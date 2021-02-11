@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Portfolio Link](#portfolio-link)
 - [Project Title](#project-title)
 - [Project Description](#project-description)
 - [Project Poster](#projectposter)
