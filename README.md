@@ -7,10 +7,10 @@
 - [Portfolio Link](#portfolio-link)
 - [Project Title](#project-title)
 - [Project Description](#project-description)
-- [Project Poster](#projectposter)
+- [Project Poster](#project-poster)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
-- [Dataset Information](#datasetinformation)
+- [Dataset Information](#dataset-information)
 - [License](#license)
 
 ## Project Description 
