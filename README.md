@@ -13,6 +13,11 @@
 - [Dataset Information](#dataset-information)
 - [License](#license)
 
+## Portfolio Link
+
+[Portfolio](https://lav30.github.io/Transfer_Learning_for_Gas_Sensor_Data/) that elaborates the methodologies used in this project to optimize the chosen metrics for classification. 
+
+
 ## Project Description 
 
 An important assumption in machine learning frameworks and algorithms is that the training and test sets must have similar label distributions and that a dataset must have thousands of observations to produce a good model. Oftentimes, real-world datasets have dissimilar label distributions and few observations to generate an effective model performance. In such cases, model performance can be improved, if the knowledge acquired through a network trained on a large dataset can be transferred successfully to smaller datasets. This project focuses on the proof of concept of transfer learning between time-series gas sensor datasets. The experimental results indicate significant improvements in model test accuracy and other performance metrics upon applying transfer learning.
