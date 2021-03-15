@@ -19,4 +19,4 @@ An important assumption in machine learning frameworks and algorithms is that th
 - Transfer learning on dataset 1
 - Transfer learning on dataset 2
 - Compare results of all models
-- Different metrics used for binary classification
+- Metrics used for binary classification
