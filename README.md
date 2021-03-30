@@ -1,5 +1,7 @@
 # Chemical Gas Classification using Transfer Learning 
 
+![Alt text](Files/Banner.png?raw=true "Title")
+
 ![Alt text](TL.png?raw=true "Title")
 
 ## Table of Contents
