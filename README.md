@@ -1,8 +1,5 @@
-<h1 align="center">Classification using Transfer Learning</h1>
-<p>
-</p>
-
 ![Alt text](Files/Banner.png?raw=true "Title")
+
 
 ![Alt text](TL.png?raw=true "Title")
 
