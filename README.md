@@ -16,7 +16,7 @@
 
 ## Portfolio Link
 
-[Portfolio](https://lav30.github.io/Transfer_Learning_for_Gas_Sensor_Data/) that elaborates the methodologies used in this project to optimize the chosen metrics for classification. 
+[Portfolio](https://lav30.github.io/Transfer_Learning/) that elaborates the methodologies used in this project to optimize the chosen metrics for classification. 
 
 
 ## Project Description 
