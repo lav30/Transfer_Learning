@@ -20,8 +20,21 @@ Transfer learning can be defined as the process in which the knowledge acquired 
 
 ## Project Workflow
 
-- MLP on a source dataset
-- Transfer learning on dataset 1
-- Transfer learning on dataset 2
-- Compare results of all models
-- Metrics used for binary classification
+### 1. Model Development
+
+The source dataset is the dataset from which the model weights and features are transferred from and the target dataset is used to train a model using these learned weights. The model architecture for the pre-trained model is a multi-layer perceptron (MLP) and is implemented using Keras. The basic model architecture has an input and output layer with three hidden layers in between. The hidden layer and the number of neurons increase the complexity of the network and help the model generalize better. The activation function used in the output layer is sigmoid and it computes the probability of the label belonging to a certain class.
+
+Since this is a binary classification problem for predicting the presence or absence of CO at a particular time, the sigmoid activation function works well. All datasets are initially utilized to train standalone models and subsequently the target datasets are used to perform transfer learning. Networks trained for transfer learning have different number of layers and neurons. The standalone model for the source dataset is trained for fifty epochs to achieve high accuracy and to ensure that the model converges successfully. Training for fewer epochs might hinder model performance. The optimizer used throughout this project is the Adam optimizer and this is a gradient descent algorithm that optimizes learning rates for all parameters. Similar model architectures have been used on datasets 2 and 3 to establish standalone model performances for datasets with reduced number of observations. These standalone performances will then be compared the performance of the pre-trained model on both the datasets. The hypothesis for this project is that the pre-trained networks obtained from training on large datasets with DNNs can be utilized on much smaller datasets with improved test accuracy and other robust metrics such as precision and recall.
+
+### 2. Results of Training using Pre-Trained Models on the Target Datasets
+
+
+
+
+
+
+
+
+
+
+
