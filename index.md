@@ -28,6 +28,17 @@ Since this is a binary classification problem for predicting the presence or abs
 
 ### 2. Results of Training using Pre-Trained Models on the Target Datasets
 
+The table below summarises the results of model training on all three datasets and diplays model training accuracies, precision, recall and Cohen's kappa metrics. Since this is a binary classification problem, the results displayed are for both 0 and 1, i.e, presence and absence of the gas(methane,CO,etc) at a particular instant.
+
+![alt text](Results.png)
+
+
+### Conclusions
+
+Comparing the performance of standalone models to models using transfer learning, there is a remarkable improvement in test accuracy, precision and recall, which leads to a conclusion that transfer learning improves model performance for datasets much smaller than the source dataset and datasets that have label imbalance. Transfer learning can indeed be utilized for binary classification tasks, particularly for chemical gas sensors that have varying levels of humidity and temperatures, which further demonstrates its effectiveness. Performance metrics can be improved by utilizing larger target datasets that have equal label distribution. 
+
+Based on the results generated in Table 1, it is evident that the pre-trained network has improved classification accuracies for both the target datasets. The model performances have also been gauged using more robust metrics such as confusion matrix, precision, recall and Cohen’s kappa score since the datasets are imbalanced in label distribution and hence only the test accuracy will not provide an accurate representation the model’s generalization capability. The Cohen’s kappa score is a statistical measure that indicates the extent of agreement between predicted and actual values. The closer the value is to 1, the better the model’s predictions are. The score has improved considerably for Dataset 3, which indicates the model’s improved ability to classify labels in the test set. The target datasets have been resampled to artificially increase the number of minority samples in the training set. While this resampling did not have considerable impact on final model accuracy, it provided an insight into the importance of having balanced datasets. Training standalone models provided interesting insights into model performances for balanced and imbalanced datasets. It can be concluded that transfer learning can be applied sensor data with reasonable accuracy and using the pre-trained network has generated greater test accuracy on Dataset 3 compared to the standalone models. Transfer learning does not provide a considerable improvement in model accuracy for imbalanced datasets, as indicated by the model performance on Dataset 2. 
+Future work can be conducted on balanced target datasets and robust benchmarks can be set in the area of transfer learning for binary classification.
 
 
 
